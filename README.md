@@ -1,6 +1,6 @@
-# Quasar App
+# MCoder Boilerplate App
 
-> A Quasar project
+> A MCoder-Vue-Webpack project
 
 ## Build Setup
 
@@ -9,11 +9,11 @@
 $ npm install
 
 # serve with hot reload at localhost:8080
-$ quasar dev
+$ npm run dev
 
 # build for production with minification
-$ quasar build
+$ npm run build
 
 # lint code
-$ quasar lint
+$ npm run lint
 ```

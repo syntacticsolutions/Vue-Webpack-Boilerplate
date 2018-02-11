@@ -1,4 +1,4 @@
-# MCoder Boilerplate App
+# Vue Webpack Boilerplate App
 
 > A MCoder-Vue-Webpack project
 
